@@ -10,7 +10,7 @@ This project applies linear regression to predict house prices based on features
 - Built and trained a linear regression model using `sklearn.linear_model`.
 - Evaluated the model using:
   - Mean Absolute Error (MAE): Measures the average magnitude of errors in predictions.
-  - **Mean Squared Error (MSE): Measures the average of the squared differences between predicted and actual values.
+  - Mean Squared Error (MSE): Measures the average of the squared differences between predicted and actual values.
   - R-squared (R²): Represents the proportion of the variance in the dependent variable that is predictable from the independent variables.
 - Interpreted the model coefficients to understand the impact of each feature on house price prediction.
 
